@@ -1,0 +1,6 @@
+Container_ID,Weight_kg,Radiation_Level,Origin_Planet,Packaging_Type
+99001,500.5,4.5,Earth,Standard Box
+99002,15.0,5.0,Jupiter-Moon,Standard Box
+99003,100.0,25.5,Mars,Standard Box
+99004,45.2,2.1,Kepler-452b,Lead Container
+99005,1200.0,3.0,Mars,Cryo-Chamber
